@@ -1,0 +1,62 @@
+[
+{
+    "nome":"Attack on Titan",
+    "descricao": "Attack on Titan (Shingeki no Kyojin) é uma série de anime de ação inovadora, com elementos de drama e terror. O anime também apresenta uma narrativa intensa, batalhas brutais e temas profundamente filosóficos. A humanidade sobrevive atrás de enormes muralhas, protegidas contra os Titãs, criaturas que devoram humanos.",
+    "ano": 2013,
+    "link": "https://www.crunchyroll.com/pt-br/series/GR751KNZY/attack-on-titan"
+},
+{   
+    "nome":"One Punch Man",
+    "descricao": "Em One Punch Man, Saitama é um cara que virou herói por diversão. Depois de realizar um 'treino especial' por três anos, ele ficou tão poderoso que consegue derrotar qualquer oponente com um único soco.",
+    "ano": 2015,
+    "link": "https://www.crunchyroll.com/pt-br/series/G63K98PZ6/one-punch-man?srsltid=AfmBOoqebNwvxCBwqBUdjlO5j3Ieol2OufDLSD5bWHs6bKKlQUEqeOOd"
+},
+{
+    "nome": "Death Note",
+    "descricao": "Um estudante do ensino médio encontra um caderno sobrenatural que lhe permite matar qualquer pessoa cujo nome ele escreva nele. Ele decide usar o caderno para livrar o mundo de criminosos, mas suas ações o colocam em conflito com um detetive genial que tenta detê-lo.",
+    "ano": 2006,
+    "link": "https://www.crunchyroll.com/pt-br/series/G6QWD3EE6/death-note"
+},
+{
+    "nome": "Jujutsu Kaisen",
+    "descricao": "Yuji Itadori, um estudante do ensino médio, se envolve com uma sociedade secreta de Feiticeiros Jujutsu para eliminar uma maldição depois de engolir um dedo amaldiçoado. Ele se junta a outros feiticeiros para combater maldições e proteger o mundo.",
+    "ano": 2020,
+    "link": "https://www.crunchyroll.com/pt-br/series/GRDV0019R/jujutsu-kaisen"
+},
+{
+    "nome": "Demon Slayer: Kimetsu no Yaiba",
+    "descricao": "Após ter sua família massacrada por demônios e sua irmã Nezuko transformada em um, Tanjiro Kamado parte em uma jornada para se tornar um caçador de demônios e encontrar uma cura para sua irmã, buscando vingança contra o demônio que destruiu sua vida.",
+    "ano": 2019,
+    "link": "https://www.crunchyroll.com/pt-br/series/GY5P48XEY/demon-slayer-kimetsu-no-yaiba"
+},
+{
+    "nome": "Naruto Shippuden",
+    "descricao": "Naruto Uzumaki, agora mais velho, retorna à Vila da Folha após um longo treinamento. Ele se reúne com seus amigos para enfrentar a organização Akatsuki, que busca capturar as Bestas com Caudas, enquanto também lida com a busca por seu amigo Sasuke Uchiha.",
+    "ano": 2007,
+    "link": "https://www.crunchyroll.com/pt-br/series/GYQ4MW246/naruto-shippuden"
+},
+{
+    "nome": "Fullmetal Alchemist: Brotherhood",
+    "descricao": "Os irmãos Edward e Alphonse Elric buscam a Pedra Filosofal para restaurar seus corpos após uma tentativa fracassada de transmutação humana. Sua busca os leva a descobrir uma conspiração sombria que ameaça todo o país.",
+    "ano": 2009,
+    "link": "https://www.crunchyroll.com/pt-br/series/GRGGPG93R/fullmetal-alchemist-brotherhood"
+},
+{
+    "nome": "One Piece",
+    "descricao": "Monkey D. Luffy, um jovem que ganhou poderes de borracha após comer uma Fruta do Diabo, parte em uma jornada com sua tripulação, os Piratas do Chapéu de Palha, para encontrar o tesouro supremo, o 'One Piece', e se tornar o Rei dos Piratas.",
+    "ano": 1999,
+    "link": "https://www.crunchyroll.com/pt-br/series/GRMG8ZQZR/one-piece"
+},
+{
+    "nome": "My Hero Academia",
+    "descricao": "Em um mundo onde quase todos nascem com superpoderes, Izuku Midoriya nasceu sem nenhum. Determinado a se tornar um herói, ele chama a atenção do maior herói de todos, All Might, que lhe concede seu próprio poder e a chance de estudar na prestigiosa U.A. High School.",
+    "ano": 2016,
+    "link": "https://www.crunchyroll.com/pt-br/series/G6NQ5DWZ6/my-hero-academia"
+},
+{
+    "nome": "Spy x Family",
+    "descricao": "Um espião precisa construir uma família de mentira para executar uma missão, sem perceber que a garota que ele adota como filha é uma telepata, e a mulher com quem ele concorda em ter um casamento falso é uma assassina habilidosa.",
+    "ano": 2022,
+    "link": "https://www.crunchyroll.com/pt-br/series/G4PH0WXVJ/spy-x-family"
+}
+]
